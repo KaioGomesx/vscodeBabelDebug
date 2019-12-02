@@ -1,0 +1,14 @@
+{
+  "name": "vscodeBabelDebug",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4"
+  }
+}
